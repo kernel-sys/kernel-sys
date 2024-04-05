@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm kernel-sys, a full-stack web developer</h2>
+<h2 align="left">Hi 👋, I'm kernel-sys, a full-stack web developer</h2>
 
 ###
 
