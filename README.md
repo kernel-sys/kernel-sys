@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on my personal projects<br>📚 I'm currently learning C++<br>🎲 Fun fact: I prefer to work on back-end security<br>❓ If you want to reach me: <a href="mailto:dev@pwned.solutions">dev@pwned.solutions</a></p>
+<p align="left">🔭 I’m currently working on my personal projects<br>📚 I'm currently learning C++<br>🎲 Fun fact: I prefer to work on back-end<br>❓ If you want to reach me: <a href="mailto:dev@pwned.solutions">dev@pwned.solutions</a></p>
 
 ###
 
